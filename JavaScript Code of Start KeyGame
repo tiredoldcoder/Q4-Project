@@ -1,0 +1,8 @@
+function robot () {
+let grabber = document.getElementById("question").value;
+let giver = document.getElementById("Answer");
+  if (grabber == "Elephant") {
+      document.write("Correct! Your first key is 7n. Only two more to go. This is a youtbe link to a surprise video if you arrange it correctly.")
+    }
+  else {document.write("Wrong! Try again. refresh this page.")}
+  }
