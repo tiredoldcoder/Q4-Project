@@ -1,0 +1,12 @@
+<DOCTYPE! html>
+<html>
+<head>
+<script src="gamey.js"></script>
+</head>
+<body>
+<p> What animal is such a strong giant that it can break apart trees? It also eats lots of plants, has a long thick trunk and sharp tusks that powerfully penetrate predators.</p>
+<textarea rows='1' cols='20' id="question"> </textarea>
+<button onclick="robot()"> Check </button>
+<div id="Answer"> </div>
+</body>
+</html>
