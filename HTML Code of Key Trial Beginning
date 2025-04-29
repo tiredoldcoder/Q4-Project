@@ -4,6 +4,7 @@
 <script src="gamey.js"></script>
 </head>
 <body>
+<h1> Welcome to the beginning trial! Complete it and then move on to the next one!</h1>
 <p> What animal is such a strong giant that it can break apart trees? It also eats lots of plants, has a long thick trunk and sharp tusks that powerfully penetrate predators.</p>
 <textarea rows='1' cols='20' id="question"> </textarea>
 <button onclick="robot()"> Check </button>
